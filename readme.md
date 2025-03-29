@@ -101,3 +101,12 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<h1>COMO JOGAR</h1>
+
+<ul>
+  <li>É necessário ter o Node.Js instalado</li>
+  <li>Dê um git clone no projeto</li>
+  <li>Dê o comando para iniciar o projeto Node: node --watch src/index.js</li>
+</ul>
+<p> Caso queira brincar com outros personagens, utilize as regras do desafio e os pontos de cada característcia dos personagens</p>
